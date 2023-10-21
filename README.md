@@ -10,7 +10,7 @@ https://www.nsnam.org/
 
 ## Installation
 
-We will be creating a ubuntu (22.04) Virtual Machine, and then installing in it.<br>
+We will be creating a ubuntu (22.04) Virtual Machine, and then installing NS-3 in it.<br>
 
 Install the Ubuntu ISO image.<br>
 https://ubuntu.com/download/desktop
