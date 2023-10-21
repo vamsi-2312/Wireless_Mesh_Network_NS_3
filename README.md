@@ -14,3 +14,7 @@ We will be creating a ubuntu (22.04) Virtual Machine, and then installing in it.
 
 Install the Ubuntu ISO image.<br>
 https://ubuntu.com/download/desktop
+
+Setting up ubuntu Virtual Machine<br>
+https://www.youtube.com/watch?v=rJ9ysibH768
+
