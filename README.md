@@ -18,7 +18,7 @@ https://ubuntu.com/download/desktop
 Setting up ubuntu Virtual Machine<br>
 https://www.youtube.com/watch?v=rJ9ysibH768
 
-### Error I have encoutered
+### Error I have encoutered while installing Ubuntu.
 1. User not a sudouser.<br>
    https://www.youtube.com/watch?v=jZGHtuxpaP4
    
