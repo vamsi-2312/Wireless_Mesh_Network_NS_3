@@ -453,3 +453,20 @@ main(int argc, char* argv[])
     return 0;
 }
 ```
+
+Open Terminal
+```
+cd ~/ns-allinone-3.40/ns-3.40
+```
+```
+./ns3 run scratch/sv_eg3.cc
+```
+
+Open another terminal
+```
+cd netanim
+```
+```
+./NetAnim
+```
+Open the .xml file and start the animation.
