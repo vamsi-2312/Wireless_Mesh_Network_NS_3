@@ -257,8 +257,32 @@ int main (int argc, char *argv[])
   return 0;
 }
 ```
+
+## Installing Proper Functioning Netanim(Network Animation)
+```
+cd
+```
+```
+sudo apt install mercurial
+```
+```
+hg clone http://code.nsnam.org/netanim
+```
+```
+cd netanim
+```
+```
+qmake Netanim.pro
+```
+```
+make
+```
+```
+./NetAnim
+```
+
 ## Third Example
-### Point to Point , CSMA and Wireless Network
+### Point to Point, CSMA and Wireless Network
 
 code<br>
 ```
