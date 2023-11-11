@@ -477,3 +477,5 @@ cd netanim
 ./NetAnim
 ```
 Open the .xml file and start the animation.
+![Screenshot from 2023-11-11 12-23-05](https://github.com/vamsi-2312/Wireless_Mesh_Network_NS_3/assets/142248038/b4413539-25db-4918-be71-4bfb6a416c81)
+
