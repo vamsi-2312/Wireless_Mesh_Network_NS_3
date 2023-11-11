@@ -18,6 +18,13 @@ https://ubuntu.com/download/desktop
 Setting up ubuntu Virtual Machine<br>
 https://www.youtube.com/watch?v=rJ9ysibH768
 
+### Error I have encoutered
+1. User not a sudouser.
+   https://www.youtube.com/watch?v=jZGHtuxpaP4
+   
+2. Citing for cache lock: could not get lock.
+   https://www.youtube.com/watch?v=L4nCtKBjqz0
+
 ## Installing NS-3
 
 ```
