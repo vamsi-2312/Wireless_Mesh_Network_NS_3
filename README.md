@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=rJ9ysibH768
    https://www.youtube.com/watch?v=jZGHtuxpaP4
    
 2. Citing for cache lock: could not get lock.<br>
-   https://www.youtube.com/watch?v=L4nCtKBjqz0
+   [https://www.youtube.com/watch?v=L4nCtKBjqz0](https://phoenixnap.com/kb/fix-could-not-get-lock-error-ubuntu)
 
 ## Installing NS-3
 
